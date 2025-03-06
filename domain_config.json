@@ -1,0 +1,269 @@
+{
+    "Technology": {
+        "descriptions": [
+            "a screenshot of a computer interface",
+            "software application",
+            "tech product"
+        ],
+        "keywords": [
+            "code",
+            "programming",
+            "tech",
+            "software"
+        ],
+        "weight": 1.0
+    },
+    "Finance": {
+        "descriptions": [
+            "a screenshot of financial dashboard",
+            "banking interface",
+            "stock market"
+        ],
+        "keywords": [
+            "bank",
+            "money",
+            "finance",
+            "trading"
+        ],
+        "weight": 1.0
+    },
+    "Health": {
+        "descriptions": [
+            "medical application",
+            "health tracking",
+            "wellness interface"
+        ],
+        "keywords": [
+            "health",
+            "medical",
+            "fitness",
+            "doctor"
+        ],
+        "weight": 1.0
+    },
+    "Education": {
+        "descriptions": [
+            "online learning platform",
+            "educational website",
+            "study materials"
+        ],
+        "keywords": [
+            "learn",
+            "course",
+            "study",
+            "education"
+        ],
+        "weight": 1.0
+    },
+    "Travel": {
+        "descriptions": [
+            "travel booking website",
+            "maps",
+            "travel planning interface"
+        ],
+        "keywords": [
+            "travel",
+            "booking",
+            "ticket",
+            "destination"
+        ],
+        "weight": 1.0
+    },
+    "Entertainment": {
+        "descriptions": [
+            "streaming platform",
+            "game interface",
+            "media website"
+        ],
+        "keywords": [
+            "netflix",
+            "youtube",
+            "game",
+            "movie"
+        ],
+        "weight": 1.0
+    },
+    "E-commerce": {
+        "descriptions": [
+            "online shopping website",
+            "product page",
+            "marketplace"
+        ],
+        "keywords": [
+            "shop",
+            "buy",
+            "product",
+            "cart"
+        ],
+        "weight": 1.0
+    },
+    "Social Media": {
+        "descriptions": [
+            "social network interface",
+            "messaging platform",
+            "social app"
+        ],
+        "keywords": [
+            "facebook",
+            "twitter",
+            "instagram",
+            "chat"
+        ],
+        "weight": 1.0
+    },
+    "News": {
+        "descriptions": [
+            "news website",
+            "online newspaper",
+            "news article"
+        ],
+        "keywords": [
+            "news",
+            "article",
+            "headline",
+            "report"
+        ],
+        "weight": 1.0
+    },
+    "Productivity": {
+        "descriptions": [
+            "task management",
+            "project tracking",
+            "productivity tool"
+        ],
+        "keywords": [
+            "todo",
+            "task",
+            "project",
+            "management"
+        ],
+        "weight": 1.0
+    },
+    "Sports": {
+        "descriptions": [
+            "sports news website",
+            "sports statistics dashboard",
+            "fantasy sports platform",
+            "sports betting interface",
+            "match schedule application",
+            "sports team page",
+            "athlete profile page",
+            "sports league website",
+            "game scoreboard",
+            "sports highlights platform",
+            "tournament bracket interface",
+            "sports analysis dashboard",
+            "fitness training tracker"
+        ],
+        "weight": 1.0
+    },
+    "Food & Dining": {
+        "descriptions": [
+            "food delivery application",
+            "restaurant review website",
+            "recipe platform",
+            "restaurant reservation system",
+            "meal planning app",
+            "cooking tutorial interface",
+            "food blog",
+            "nutrition information page",
+            "restaurant menu",
+            "grocery shopping platform",
+            "food ordering system",
+            "culinary social network",
+            "dietary tracking application"
+        ],
+        "weight": 1.0
+    },
+    "Real Estate": {
+        "descriptions": [
+            "property listing website",
+            "real estate agency portal",
+            "home search platform",
+            "apartment rental site",
+            "real estate market analysis",
+            "mortgage calculator tool",
+            "property management dashboard",
+            "home valuation tool",
+            "virtual property tour",
+            "floor plan viewer",
+            "real estate agent profile",
+            "property comparison tool",
+            "real estate investment platform"
+        ],
+        "weight": 1.0
+    },
+    "Automotive": {
+        "descriptions": [
+            "car shopping website",
+            "vehicle listing platform",
+            "automotive parts store",
+            "car comparison tool",
+            "vehicle maintenance tracker",
+            "car rental service",
+            "automotive news site",
+            "vehicle specifications page",
+            "automobile review platform",
+            "car dealership website",
+            "vehicle history report",
+            "electric vehicle charging map",
+            "automotive forum"
+        ],
+        "weight": 1.0
+    },
+    "Gaming": {
+        "descriptions": [
+            "video game interface",
+            "gaming platform storefront",
+            "game launcher",
+            "gaming community forum",
+            "game achievement screen",
+            "gaming leaderboard",
+            "game settings menu",
+            "game inventory screen",
+            "game map interface",
+            "game character selection",
+            "gaming news website",
+            "game modding platform",
+            "gaming strategy guide",
+            "game streaming interface"
+        ],
+        "weight": 1.0
+    },
+    "Government & Public Services": {
+        "descriptions": [
+            "government website",
+            "public service portal",
+            "tax filing system",
+            "voting information site",
+            "permit application interface",
+            "public records database",
+            "municipal service platform",
+            "citizen feedback system",
+            "government agency page",
+            "public transportation planner",
+            "emergency services information",
+            "city planning dashboard",
+            "community resources directory"
+        ],
+        "weight": 1.0
+    },
+    "Art & Design": {
+        "descriptions": [
+            "design software interface",
+            "digital art creation tool",
+            "graphic design platform",
+            "digital portfolio website",
+            "art gallery website",
+            "photo editing application",
+            "3D modeling software",
+            "illustration tool",
+            "design template library",
+            "creative project management",
+            "digital asset management",
+            "typography editor",
+            "color palette selector"
+        ],
+        "weight": 1.0
+    }
+}

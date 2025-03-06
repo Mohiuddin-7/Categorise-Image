@@ -1,0 +1,35 @@
+{
+    "timestamp": "20250306_182911",
+    "total_processed": 4,
+    "successful_categorizations": 4,
+    "low_confidence_count": 0,
+    "accuracy": 1.0,
+    "average_confidence": 0.7178970500826836,
+    "domain_counts": {
+        "Art & Design": 3,
+        "Food & Dining": 1
+    },
+    "threshold": 0.15,
+    "model_name": "CLIPModel",
+    "preprocessing_enabled": true,
+    "learning_enabled": true,
+    "domain_weights": {
+        "Technology": 1.0,
+        "Finance": 1.0,
+        "Health": 1.0,
+        "Education": 1.0,
+        "Travel": 1.0,
+        "Entertainment": 1.0,
+        "E-commerce": 1.0,
+        "Social Media": 1.0,
+        "News": 1.0,
+        "Productivity": 1.0,
+        "Sports": 1.0,
+        "Food & Dining": 1.0,
+        "Real Estate": 1.0,
+        "Automotive": 1.0,
+        "Gaming": 1.0,
+        "Government & Public Services": 1.0,
+        "Art & Design": 1.0
+    }
+}
