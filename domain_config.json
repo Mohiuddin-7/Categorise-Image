@@ -1,269 +1,92 @@
 {
     "Technology": {
-        "descriptions": [
-            "a screenshot of a computer interface",
-            "software application",
-            "tech product"
-        ],
-        "keywords": [
-            "code",
-            "programming",
-            "tech",
-            "software"
-        ],
+        "descriptions": ["a screenshot of a computer interface", "software application", "tech product"],
+        "keywords": ["code", "programming", "tech", "software"],
         "weight": 1.0
     },
     "Finance": {
-        "descriptions": [
-            "a screenshot of financial dashboard",
-            "banking interface",
-            "stock market"
-        ],
-        "keywords": [
-            "bank",
-            "money",
-            "finance",
-            "trading"
-        ],
-        "weight": 1.0
-    },
-    "Health": {
-        "descriptions": [
-            "medical application",
-            "health tracking",
-            "wellness interface"
-        ],
-        "keywords": [
-            "health",
-            "medical",
-            "fitness",
-            "doctor"
-        ],
+        "descriptions": ["financial dashboard", "banking interface", "stock market"],
+        "keywords": ["bank", "money", "finance", "trading"],
         "weight": 1.0
     },
     "Education": {
-        "descriptions": [
-            "online learning platform",
-            "educational website",
-            "study materials"
-        ],
-        "keywords": [
-            "learn",
-            "course",
-            "study",
-            "education"
-        ],
+        "descriptions": ["online learning", "educational website", "study materials"],
+        "keywords": ["study", "education", "course", "learn"],
         "weight": 1.0
     },
     "Travel": {
-        "descriptions": [
-            "travel booking website",
-            "maps",
-            "travel planning interface"
-        ],
-        "keywords": [
-            "travel",
-            "booking",
-            "ticket",
-            "destination"
-        ],
+        "descriptions": ["travel booking", "maps", "travel planning interface"],
+        "keywords": ["travel", "ticket", "destination", "booking"],
         "weight": 1.0
     },
     "Entertainment": {
-        "descriptions": [
-            "streaming platform",
-            "game interface",
-            "media website"
-        ],
-        "keywords": [
-            "netflix",
-            "youtube",
-            "game",
-            "movie"
-        ],
+        "descriptions": ["streaming platform", "game interface", "media website"],
+        "keywords": ["movie", "game", "netflix", "youtube"],
         "weight": 1.0
     },
     "E-commerce": {
-        "descriptions": [
-            "online shopping website",
-            "product page",
-            "marketplace"
-        ],
-        "keywords": [
-            "shop",
-            "buy",
-            "product",
-            "cart"
-        ],
+        "descriptions": ["shopping website", "product page", "marketplace"],
+        "keywords": ["buy", "cart", "shop", "product"],
         "weight": 1.0
     },
     "Social Media": {
-        "descriptions": [
-            "social network interface",
-            "messaging platform",
-            "social app"
-        ],
-        "keywords": [
-            "facebook",
-            "twitter",
-            "instagram",
-            "chat"
-        ],
+        "descriptions": ["social app", "messaging platform", "social network interface"],
+        "keywords": ["facebook", "chat", "twitter", "instagram"],
         "weight": 1.0
     },
     "News": {
-        "descriptions": [
-            "news website",
-            "online newspaper",
-            "news article"
-        ],
-        "keywords": [
-            "news",
-            "article",
-            "headline",
-            "report"
-        ],
+        "descriptions": ["news article", "news website", "online newspaper"],
+        "keywords": ["headline", "report", "news", "article"],
         "weight": 1.0
     },
     "Productivity": {
-        "descriptions": [
-            "task management",
-            "project tracking",
-            "productivity tool"
-        ],
-        "keywords": [
-            "todo",
-            "task",
-            "project",
-            "management"
-        ],
+        "descriptions": ["task management", "project tracking", "productivity tool"],
+        "keywords": ["todo", "project", "management", "task"],
         "weight": 1.0
     },
     "Sports": {
-        "descriptions": [
-            "sports news website",
-            "sports statistics dashboard",
-            "fantasy sports platform",
-            "sports betting interface",
-            "match schedule application",
-            "sports team page",
-            "athlete profile page",
-            "sports league website",
-            "game scoreboard",
-            "sports highlights platform",
-            "tournament bracket interface",
-            "sports analysis dashboard",
-            "fitness training tracker"
-        ],
+        "descriptions": ["sports news", "sports statistics dashboard", "match schedule application"],
+        "keywords": ["match", "league", "team", "tournament"],
         "weight": 1.0
     },
     "Food & Dining": {
-        "descriptions": [
-            "food delivery application",
-            "restaurant review website",
-            "recipe platform",
-            "restaurant reservation system",
-            "meal planning app",
-            "cooking tutorial interface",
-            "food blog",
-            "nutrition information page",
-            "restaurant menu",
-            "grocery shopping platform",
-            "food ordering system",
-            "culinary social network",
-            "dietary tracking application"
-        ],
-        "weight": 1.0
-    },
-    "Real Estate": {
-        "descriptions": [
-            "property listing website",
-            "real estate agency portal",
-            "home search platform",
-            "apartment rental site",
-            "real estate market analysis",
-            "mortgage calculator tool",
-            "property management dashboard",
-            "home valuation tool",
-            "virtual property tour",
-            "floor plan viewer",
-            "real estate agent profile",
-            "property comparison tool",
-            "real estate investment platform"
-        ],
+        "descriptions": ["food delivery", "restaurant review website", "recipe platform"],
+        "keywords": ["restaurant", "recipe", "food", "meal"],
         "weight": 1.0
     },
     "Automotive": {
-        "descriptions": [
-            "car shopping website",
-            "vehicle listing platform",
-            "automotive parts store",
-            "car comparison tool",
-            "vehicle maintenance tracker",
-            "car rental service",
-            "automotive news site",
-            "vehicle specifications page",
-            "automobile review platform",
-            "car dealership website",
-            "vehicle history report",
-            "electric vehicle charging map",
-            "automotive forum"
-        ],
-        "weight": 1.0
-    },
-    "Gaming": {
-        "descriptions": [
-            "video game interface",
-            "gaming platform storefront",
-            "game launcher",
-            "gaming community forum",
-            "game achievement screen",
-            "gaming leaderboard",
-            "game settings menu",
-            "game inventory screen",
-            "game map interface",
-            "game character selection",
-            "gaming news website",
-            "game modding platform",
-            "gaming strategy guide",
-            "game streaming interface"
-        ],
+        "descriptions": ["car shopping", "vehicle rental", "automobile marketplace"],
+        "keywords": ["vehicle", "rental", "car", "auto"],
         "weight": 1.0
     },
     "Government & Public Services": {
-        "descriptions": [
-            "government website",
-            "public service portal",
-            "tax filing system",
-            "voting information site",
-            "permit application interface",
-            "public records database",
-            "municipal service platform",
-            "citizen feedback system",
-            "government agency page",
-            "public transportation planner",
-            "emergency services information",
-            "city planning dashboard",
-            "community resources directory"
-        ],
+        "descriptions": ["government website", "public service portal", "tax filing system"],
+        "keywords": ["public service", "tax", "government", "policy"],
         "weight": 1.0
     },
-    "Art & Design": {
-        "descriptions": [
-            "design software interface",
-            "digital art creation tool",
-            "graphic design platform",
-            "digital portfolio website",
-            "art gallery website",
-            "photo editing application",
-            "3D modeling software",
-            "illustration tool",
-            "design template library",
-            "creative project management",
-            "digital asset management",
-            "typography editor",
-            "color palette selector"
-        ],
+    "Nature": {
+        "descriptions": ["natural scenery", "wildlife photography", "landscape images"],
+        "keywords": ["forest", "mountains", "ocean", "nature"],
+        "weight": 1.0
+    },
+    "Quotes": {
+        "descriptions": ["motivational quotes", "inspirational sayings", "daily wisdom"],
+        "keywords": ["motivation", "inspiration", "quote", "wisdom"],
+        "weight": 1.0
+    },
+    "Resources": {
+        "descriptions": ["learning materials", "skill development resources", "reference guides"],
+        "keywords": ["skills", "reference", "guide", "tutorial"],
+        "weight": 1.0
+    },
+    "Ronaldo": {
+        "descriptions": ["Cristiano Ronaldo images", "football highlights of Ronaldo", "Ronaldo fan pages"],
+        "keywords": ["ronaldo", "football", "soccer", "cr7"],
+        "weight": 1.0
+    },
+    "Motivation": {
+        "descriptions": ["motivational content", "inspirational images", "quote visuals"],
+        "keywords": ["motivation", "inspire", "quote", "uplift"],
         "weight": 1.0
     }
 }
