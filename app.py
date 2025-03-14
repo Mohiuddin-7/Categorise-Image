@@ -1,16 +1,10 @@
 import streamlit as st
-from PIL import Image
 import os
 import shutil
 from PIL import Image
 import torch
 import torchvision.transforms as transforms
 from torchvision import models
-
-# Load a custom thumbnail image
-image = Image.open("thumbnail.webp")  # Replace with your image filename
-st.image(image, use_column_width=True)
-
 # Set up dataset path
 DATASET_PATH = "categorized_images"
 os.makedirs(DATASET_PATH, exist_ok=True)
